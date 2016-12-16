@@ -1,0 +1,1082 @@
+{
+  "settings": {
+    "name": "WiFi SDK - v1",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#34c7e7",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 22,
+    "versionPublish": "3.10.2",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.jpg",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "WiFi SDK - O melhor anúncio nas mãos do seu cliente",
+        "meta_descr": "Envie mensagens personalizadas de acordo com o perfil e comportamento das pessoas. Sem cadastro, formulários ou senhas. Tudo automático e transparente.",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-PD9PFX');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PD9PFX\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n<link rel=”canonical” href=”https://galata.com.br/wifi-sdk”/>\n<meta property=\"og:image\" content=\"https://galata.com.br/wifi-sdk/facebook-og-image.jpg\">\n<meta property=\"og:image:type\" content=\"image/jpeg\">\n<meta property=\"og:image:width\" content=\"1200\">\n<meta property=\"og:image:height\" content=\"628\">",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#34c7e7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#34c7e7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#34c7e7"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#01161a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#02333d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#023f4c"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#34c7e7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#34c7e7!important"
+            },
+            ".innerEmail:hover, .innerPhone:hover": {
+              "color": "@primaryColor"
+            },
+            "SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMenu1",
+          "_anchor": "extMenu1-0",
+          "_params": {
+            "bgColor": "#023f4c",
+            "socialButtons": "4",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#34c7e7",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "fa",
+              "link": "https://mobirise.com",
+              "name": "phone",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "FontAwesome"
+            }
+          },
+          "phone": "+55 (14) 9.9712-7092&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "name": "mail",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "linecons"
+            }
+          },
+          "email": "contato@galata.com.br",
+          "media3": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.facebook.com/GetulioWiFi/",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "youtube-play",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "map-marker",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://www.google.com/maps/place/Owzone+%7C+Escritório+Virtual+%2F+Compartilhado/@-22.3346456,-49.0715683,16z/data=!4m2!3m1!1s0x94bf6707d461b11f:0x65e668297d5e3101",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "skype",
+              "family": "socicon",
+              "active": true,
+              "link": "mailto: contato@galata.com.br",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "pinterest",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wifisdk-581x128-44.png",
+              "height": 128,
+              "alt": "WiFi SDK Mobile Wiman",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMO FUNCIONA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-5\">BENEFÍCIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">O QUE É</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-a\">CONTROLES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NOTIFICAÇÕES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#msg-box2-g\">CONTATO</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-size": "12px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-principal-wifisdk.gif",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "O MELHOR&nbsp;ANÚNCIO<br>NAS MÃOS&nbsp;CERTAS!",
+          "text": "Conheça o WiFi SDK: o melhor jeito de anunciar seus<br>produtos na mídia mais pedida do mercado publicitário.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures1-1\" data-toolbar=\"-mbrBtnMove\">VEJA COMO FUNCIONA</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#34c7e7",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px",
+              "color": "#3c3c3c"
+            },
+            "P": {
+              "color": "#3c3c3c"
+            },
+            "DIV": {
+              "color": "#34c7e7"
+            },
+            ".feature-subtitle": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#3c3c3c"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "COMO FUNCIONA",
+          "subtitle": "Sem cadastro, sem formulários e sem senhas. É tudo automático e transparente!",
+          "feature_title1": "Implantação",
+          "feature_subtitle1": "",
+          "feature_text1": "Integração do Mobile WiFi SDK<br>da wiMAN ao aplicativo da loja",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "chip",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Ativação dos pontos",
+          "feature_subtitle2": "",
+          "feature_text2": "Habilitação dos roteadores das<br>redes WiFi das lojas para conexão",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "wifi-keyboard",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/chip-wifisdk.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "wifi",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Conexão",
+          "feature_subtitle4": "",
+          "feature_text4": "Ao passar em frente ou entrar na loja o WiFi é conectado automaticamente",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "social-notifications-on",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Notificação",
+          "feature_subtitle5": "",
+          "feature_text5": "O cliente pode começar a receber as mensagens de notificações no celular"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "15px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#023f4c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "BENEFÍCIOS",
+          "text": "<p>Envie mensagens personalizadas de acordo com o perfil e comportamento dos seus usuários</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-5",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#023f4c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Sem barreiras",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": " Conexão automática ao WiFi da loja, <br>sem cadastro ou autenticação",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "bar-chart4",
+              "family": "iconsMind",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Monitoramento",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Controle dos acessos,&nbsp;conexões,<br>dispositivos, celulares, horários",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "social-people",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Informações",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Perfil preciso do cliente:<br>sexo, idade, localização, e-mail...",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "content-send",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Segmentação",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Envio do anúncio direto no celular de<br>acordo com o perfil escolhido",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-7",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#00d8ff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "O que é Mobile<br>wiMAN App SDK?",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Recurso para que seja inserido dentro de aplicativos de terceiros,<br>permitindo que esses clientes possam criar redes customizadas de WiFi,<br>sem ter custos adicionais de roteadores, access points, etc.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">*A wiMAN não recebe nenhum tipo de cadastro ou informação<br>dos clientes que utilizam o serviço.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#3c3c3c",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#3c3c3c",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-e",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "TIPOS DE CONTROLE/LIMITAÇÃO",
+          "text": "<p><b>Defina limites e controles para evitar abusos e/ou custos elevados</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          },
+          "_anchor": "extFeatures4-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title1": "Por tempo",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>Tempo de conexão</b>, ex: 2 h",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "line-chart3",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "title2": "Por tráfego",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "<b>Dados em MB</b>, ex: 100 MB",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px",
+              "color": "#efefef"
+            },
+            "DIV": {
+              "color": "#34c7e7"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#023f4c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "NOTIFICACOES PUSH",
+          "subtitle": "Envie mensagens conforme ações e comportamentos dos seus clientes",
+          "feature_title1": "Conexão",
+          "feature_subtitle1": "",
+          "feature_text1": "Envie uma mensagem de boas-vindas ou promoção do dia na conexão",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "wifi",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Consumo",
+          "feature_subtitle2": "",
+          "feature_text2": "Avise que a quantidade grátis oferecida está acabando ao atingir % de dados",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "bar-chart",
+              "family": "iconsMind",
+              "active": true,
+              "size": "",
+              "color": "@primaryColor"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/wifisdk-iphone-notificacoes.gif",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Tempo",
+          "feature_subtitle4": "",
+          "feature_text4": "Ofereça um pacote adicional com mais tempo ou dados para continuar navegando quando o tempo ou MB acabar",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "no-wifi",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Desconexão",
+          "feature_subtitle5": "",
+          "feature_text5": " Envie uma pesquisa de satisfação depois que as pessoas se desconectarem"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px",
+              "color": "#3c3c3c"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/wiman-logo.png",
+                    "link": "http://www.wimanbrasil.com.br/?utm_source=wifi-sdk&utm_medium=parceiros&utm_campaign=link-site",
+                    "active": true,
+                    "alt": "wiMan Brasil",
+                    "title": "wiMan Brasil",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/netdigit-logo.png",
+                    "link": "http://www.netdigit.com.br/?utm_source=wifi-sdk&utm_medium=parceiros&utm_campaign=link-site",
+                    "active": true,
+                    "alt": "Netdigit Telecom",
+                    "title": "Netdigit Telecom",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/galata-logo.png",
+                    "link": "https://www.galata.com.br/?utm_source=wifi-sdk&utm_medium=parceiros&utm_campaign=link-site",
+                    "active": true,
+                    "alt": "Galata Soluções em Tecnologia",
+                    "title": "Galata Soluções em Tecnologia",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "3",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-l",
+          "title": "NOSSOS PARCEIROS",
+          "subtitle": "Saiba mais sobre nossos integrantes e o que essas empresas mostram de soluções em tecnologia"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00d8ff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">CONTATAR</a>  ",
+          "title": "QUER MAIS INFOMAÇÕES?",
+          "text": "Entre em contato conosco pelo nosso chat-online ou preencha o formulário!",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" style=\"background-color: rgb(0, 216, 255); padding-top: 60px; padding-bottom: 60px;\">\n\n{JS_CODE_0}\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"15\">QUER MAIS INFOMAÇÕES?</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"16\">Entre em contato conosco pelo nosso chat-online ou preencha o formulário!</h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  <div class=\"text-xs-center\"><a class=\"btn btn-white mbr-editable-button typeform-share link\" href=\"https://formtool.typeform.com/to/TLRSvF\" data-mode=\"2\" target=\"_blank\" code-editable-id=\"17\">FORMULÁRIO</a>  </div>\n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>"
+          ],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title {\n\tcolor: #fff;\n\tfont-size: 36px;\n}\n.mbr-section-subtitle {\n\tcolor: #ffffff;\n\tfont-family: 'Montserrat', sans-serif;\n\tfont-size: 15px;\n}\n.mbr-header .mbr-header__text {\n\tcolor: #252525;\n}\n.mbr-article {\n\tcolor: #252525;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box2-g"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#acacac"
+            }
+          },
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WiFi SDK - O melhor anúncios nas mãos do seu cliente"
+        }
+      ]
+    }
+  }
+}
